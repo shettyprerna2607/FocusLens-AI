@@ -1,0 +1,10 @@
+# .gitignore for FocusLens AI
+node_modules/
+.DS_Store
+Thumbs.db
+*.zip
+*.log
+.vscode/
+.idea/
+create_icons.py
+FocusLens-AI-v1.0.zip

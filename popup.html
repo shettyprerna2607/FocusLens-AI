@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>FocusLens AI</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <div class="logo-area">
+        <h1>FocusLens <span class="accent">AI</span></h1>
+        <div id="focus-score-badge" class="score-badge">--</div>
+      </div>
+
+      <!-- Goal Selector -->
+      <div class="control-group">
+        <label for="goal-select" class="control-label">Current Goal</label>
+        <select id="goal-select">
+          <option value="">None (Tracking Only)</option>
+          <option value="Study">Study</option>
+          <option value="Coding">Coding</option>
+          <option value="Content Creation">Content Creation</option>
+          <option value="Fitness / Research">Fitness / Research</option>
+        </select>
+      </div>
+    </header>
+
+    <!-- Insights Section -->
+    <div id="insights-box" class="insights-card">
+      <p class="insight-text">Select a goal to start focusing.</p>
+    </div>
+
+    <!-- Active Sites List -->
+    <div class="list-header">Top Sites</div>
+    <div id="stats-container">
+      <div class="empty-state">
+        <p>No data yet...</p>
+      </div>
+    </div>
+
+    <footer>
+      <button id="reset-btn" class="secondary-btn">Reset Day</button>
+    </footer>
+  </div>
+
+  <!-- We need to include module type to use named imports in popup.js -->
+  <script type="module" src="popup.js"></script>
+</body>
+
+</html>
