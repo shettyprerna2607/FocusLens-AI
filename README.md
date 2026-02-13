@@ -6,7 +6,7 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ---
 
-Preview
+## Preview
 ![WhatsApp Image 2026-02-13 at 11 06 28](https://github.com/user-attachments/assets/49030bd4-8bcb-4290-9404-7c74b9dc8b5c)
 
 ---
