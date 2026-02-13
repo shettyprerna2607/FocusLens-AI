@@ -4,10 +4,6 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ![FocusLens AI Icon](assets/icon128.png)
 
-## Preview
-
-<img width="1920" height="1080" alt="FocusLens AI Interface" src="https://github.com/user-attachments/assets/2005959a-3ead-405e-8653-614da72dd32e" />
-
 ---
 
 ## Key Features
