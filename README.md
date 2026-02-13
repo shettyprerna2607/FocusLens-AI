@@ -28,7 +28,3 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 2. **Earn Credits**: Spend time on productive sites (GitHub, StackOverflow, etc.) to earn **1 credit every 5 minutes**.
 3. **Spend Credits**: Distracting sites (Netflix, Instagram, etc.) cost **1 credit per minute**.
 4. **Don't Go Bankrupt**: If your balance hits zero, distracting sites will be blocked until you earn more credits!
-
-## 📄 License
-
-This project is open-source. Feel free to use and modify it!
