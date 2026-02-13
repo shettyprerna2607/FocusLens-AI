@@ -4,13 +4,13 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ![FocusLens AI Icon](assets/icon128.png)
 
-## � Preview
+## Preview
 
 <img width="1920" height="1080" alt="FocusLens AI Interface" src="https://github.com/user-attachments/assets/2005959a-3ead-405e-8653-614da72dd32e" />
 
 ---
 
-## �🚀 Key Features
+## Key Features
 
 - **Privacy-First Architecture**: No servers, no tracking. All usage data and history stay locally on your device in your browser's storage.
 - **Goal-Oriented AI**: Select goals like *Coding*, *Study*, *Fitness*, or *Content Creation*. The AI adapts its classification based on your current focus.
@@ -26,7 +26,7 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3 (Modern Glassmorphism & Keyframe Animations).
 - **Core Extension Logic**:
@@ -38,7 +38,7 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ---
 
-## 🛠️ Installation (Manual)
+## Installation (Manual)
 
 1. **Clone/Download**: Download this repository as a ZIP and extract it.
 2. **Extensions Page**: Open Google Chrome and go to `chrome://extensions`.
@@ -47,7 +47,7 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. **Set a Goal**: Click the FocusLens icon in your toolbar and select your category (e.g., *Coding*).
 2. **Productive Domains**: 
