@@ -17,8 +17,8 @@ FocusLens AI is a privacy-first, gamified Chrome Extension designed to help you 
 - **Goal-Oriented AI**: Select goals like *Coding*, *Study*, *Fitness*, or *Content Creation*. The AI adapts its classification based on your current focus.
 - **Dynamic Credit Economy**:
   - **Daily Allowance**: Start every day with **30 💎 Credits**.
-  - **Earn while you Work**: Productive sites (GitHub, LeetCode, Wikipedia, etc.) earn you **1 credit every 5 minutes** (0.2/min).
-  - **Pay for Distractions**: Social media and entertainment sites cost **1 credit per minute** (1.0/min).
+  - **Earn while you Work**: Productive sites (GitHub, LeetCode, Wikipedia, etc.) earn you **1 credit every 5 minutes**.
+  - **Pay for Distractions**: Social media and entertainment sites cost **1 credit per minute**.
 - **Interactive Interventions**:
   - **Soft Lock (AI Eye)**: When you visit a distraction, a blurred overlay appears featuring a glowing, animated **AI Eye** and a 5-second reflection timer.
   - **Hard Lock (Bankrupt)**: If your credits hit 0, distracting sites are completely blocked until you earn more by being productive.
